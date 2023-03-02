@@ -6,7 +6,7 @@ const OAuth = () => {
 
   return (
     <div>
-      <button onClick={signInWithGoogle} className='flex border border-black bg-gray-200  rounded m-3 p-1'>
+      <button onClick={signInWithGoogle} className='flex border border-black bg-gray-200  rounded m-3 p-1 '>
         <FcGoogle />
         Continue With Google
       </button>
